@@ -18,7 +18,7 @@ A sophisticated, interactive chatbot powered by Google's Gemini AI models, built
 
 ## 🖼️ Screenshots
 
-*(You can add screenshots of your application here)*
+![Gemini AI Chatbot Interface](img/chatbot_screenshot.png)
 
 ## 🚀 Installation
 
@@ -101,6 +101,8 @@ gemini-chatbot/
 ├── run_streamlit.bat       # Helper batch file used by start_chatbot.bat
 ├── requirements.txt        # Project dependencies
 ├── .env                    # Environment variables (API keys)
+├── img/                    # Folder containing application screenshots
+│   └── chatbot_screenshot.png  # Screenshot of the chatbot interface
 └── README.md               # Project documentation
 ```
 
