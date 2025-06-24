@@ -1,0 +1,3 @@
+@echo off
+echo Starting LangChain Chatbot...
+call "%~dp0run_streamlit.bat" "%~dp0chatbot.py"
